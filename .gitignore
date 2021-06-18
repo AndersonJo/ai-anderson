@@ -4,6 +4,9 @@
 *.pt
 raw
 
+# Project
+.idea
+
 .ipynb_checkpoints
 lightning_logs
 
